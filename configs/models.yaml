@@ -1,0 +1,7 @@
+models:
+  - name_or_path: "google/gemma-3-4b-it"
+    tokenizer_name: "Gemma 3 4B"
+    trust_remote_code: true
+  - name_or_path: "meta-llama/Llama-3.2-3B-Instruct"
+    tokenizer_name: "Llama 3.2 3B Instruct"
+    trust_remote_code: true
